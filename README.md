@@ -1,1 +1,2 @@
 # Transformers
+The Hugging Face Transformer library was used for multiple natural language processing tasks such as sentiment analysis, text generation, name entity recognition, and question-answering. Additionally, the library's 'summarize' pipeline was applied to summarize a text, and Glove and BERT embeddings were used to calculate the Euclidean distance of the word 'bank' in two sentences. This highlights the diverse capabilities of the Hugging Face Transformer library.
